@@ -373,7 +373,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u8DD1\u5427\uFF01\u8C93\u54AA\uFF01"
+  m_Text: "\u8D85\u7D1A\u746A\u8389\u8C93:)"
 --- !u!222 &382546013
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1109,7 +1109,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Made by KID. Version1.0
+  m_Text: Chiang. Version1.0
 --- !u!222 &1801186482
 CanvasRenderer:
   m_ObjectHideFlags: 0
